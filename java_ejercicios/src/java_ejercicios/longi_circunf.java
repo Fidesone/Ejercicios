@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class longi_circunf {
 
 	public static void main(String[] args) {
-		// Pedir el radio de una circunferencia y calcular su longitud. 2PI * radio
+		// Pedir el radio de una circunferencia y calcular su longitud.  (Fórmula = 2PI * radio)
 		
 		Scanner scanner = new Scanner(System.in);
 		

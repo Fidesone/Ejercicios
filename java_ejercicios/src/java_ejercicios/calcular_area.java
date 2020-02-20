@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class calcular_area {
 
 	public static void main(String[] args) {
-		// 2. Pedir el radio de un círculo y calcular su área. A=PI*r^2.
+		// 2. Pedir el radio de un círculo y calcular su área.  (Fórmula A= PI*r^2.)
 		
 				Scanner scanner= new Scanner(System.in);
 				
