@@ -13,8 +13,8 @@ public class num_may_men {
 		int num2 = scanner.nextInt();
 		
 		if (num1>num2) {
-			System.out.println(num1);
-		} else System.out.println(num2);
+			System.out.println( "El número mayor es el: " + num1);
+		} else System.out.println("El número mayor es el: " + num2);
 	}
 
 }
